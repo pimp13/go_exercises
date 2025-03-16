@@ -22,4 +22,8 @@ go.work
 go.work.sum
 
 # env file
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 9a94b13 (init commit)
